@@ -62,7 +62,7 @@ This database was created to handle the submission and review process of researc
 ---
 
 ## Acknowledgements
-This project was a collaborative effort involving extensive teamwork and coordination. Special thanks to all team members and our course instructor [Instructor's Name].
+This project was a collaborative effort involving extensive teamwork and coordination. Special thanks to all team members and our course instructor.
 
 ---
 
